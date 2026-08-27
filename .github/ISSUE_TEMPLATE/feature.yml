@@ -1,0 +1,18 @@
+name: Feature / design proposal
+description: Something thule should do, or a design question
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the need, not the implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: sketch
+    attributes:
+      label: How might it work?
+      description: Optional — a sketch, not a spec.
+    validations:
+      required: false
