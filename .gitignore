@@ -1,0 +1,5 @@
+# OS / editor cruft. Language-specific ignores land once a stack is chosen.
+.DS_Store
+*.swp
+.idea/
+.vscode/

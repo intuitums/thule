@@ -1,0 +1,5 @@
+# This is a sandboxing boundary; every change needs the maintainer's eyes
+# until there's a wider team. Branch protection requires code-owner review,
+# so a PR cannot merge on green checks alone.
+
+* @fschrhunt
