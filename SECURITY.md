@@ -17,5 +17,5 @@ there's no live boundary yet for a private disclosure to protect.
 ## Reporting a vulnerability (once code exists)
 
 Report privately through
-[GitHub Security Advisories](https://github.com/intuitumxyz/thule/security/advisories/new)
+[GitHub Security Advisories](https://github.com/intuitums/thule/security/advisories/new)
 rather than a public issue.
