@@ -1,11 +1,10 @@
 # Contributing
 
-This repository is a scaffold: the design and implementation haven't
-started. Until a first implementation lands, the most useful contribution
-is discussion — open an issue before sending a pull request for anything
-beyond a typo or a docs fix, since the shape of the project (language,
-how it integrates with e, what the micro-VM boundary actually covers) is
-still unsettled.
+This repository is a scaffold. Design and implementation have not started.
+Until a first implementation lands, the most useful contribution is discussion.
+Open an issue before sending a pull request for anything beyond a typo or docs
+fix. The language, guest image, runtime interface, integration model, and exact
+microVM boundary are still unsettled.
 
 Once implementation begins, this file will grow the usual sections: build
 and test commands, the checks CI runs, and what needs a code-owner review.
